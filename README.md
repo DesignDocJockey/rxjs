@@ -2,7 +2,7 @@
 ## Initial Setup
 
 #Create package.json
-npm init
+  - npm init
 
 #Install typings NPM package
-npm install typings --global
+  - npm install typings --global
