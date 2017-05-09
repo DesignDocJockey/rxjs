@@ -1,0 +1,134 @@
+#
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Mac desktop service store files
+.DS_Store
+
+### VisualStudio ###
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.cache
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+#NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Build directory
+publish/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.dbmdl
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# NuGet packages
+packages/
+*.nupkg
+.nuget/
+
+#SourceGear Vault files (CASystems used for verison control)
+_sgbak
+
+#Backup Orig Files from Kdiff3
+*.orig
+
+!lib/**
+
+
+
+jailer-config/
+
+
+# DNX
+project.lock.json
+artifacts/
+.vs/
+*.jfm
+node_modules/
+.idea
+.vscode/
